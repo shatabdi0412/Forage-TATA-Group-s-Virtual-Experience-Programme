@@ -61,3 +61,6 @@ To implement the mentioned checks, use conditional formulas to exclude data that
 I began by opening the dataset in Tableau and applying filtering conditions to remove the data errors mentioned earlier. Thankfully, Tableau simplifies this process. Afterwards, I crafted visualizations for the four questions, which you can view here.
 
 https://public.tableau.com/views/Forage-TataVirtualExperienceProgramme/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link
+
+# Communicating Insights and Analysis
+Now that we have curated the visuals to answer the CEO’s and CMO’s questions, it is time to present our findings to them! In this task, we have to develop a script and record a video presentation, presenting our findings to the CEO and CMO based on the questions they have asked. The video should be approximately 5 minutes in length. This task is arguably the most important task as it tests our communication skills. We could have derived amazing insights and created beautiful visuals, but if we did not communicate our findings to the different stakeholders effectively, they would all be useless!
